@@ -1,2 +1,4 @@
 # -comp2245-assignment3
-tic tac toe
+# COMP2245 Assignment 3
+This is Assignment 3 for Julian Piper
+
